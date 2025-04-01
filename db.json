@@ -1,0 +1,49 @@
+{
+  "animals": [
+    {
+      "id": 1,
+      "name": "Charlie",
+      "species": "Dog",
+      "breed": "Labrador",
+      "age": 3,
+      "image": "dog1.jpg",
+      "likes": 0
+    },
+    {
+      "id": 2,
+      "name": "Mittens",
+      "species": "Cat",
+      "breed": "Tabby",
+      "age": 2,
+      "image": "cat1.jpg",
+      "likes": 0
+    },
+    {
+      "id": 3,
+      "name": "Goldie",
+      "species": "Fish",
+      "breed": "Goldfish",
+      "age": 1,
+      "image": "fish1.jpg",
+      "likes": 0
+    },
+    {
+      "id": 4,
+      "name": "Bunny",
+      "species": "Rabbit",
+      "breed": "Holland Lop",
+      "age": 4,
+      "image": "rabbit1.jpg",
+      "likes": 0
+    },
+    {
+      "id": 5,
+      "name": "Coco",
+      "species": "Bird",
+      "breed": "Parakeet",
+      "age": 2,
+      "image": "bird1.jpg",
+      "likes": 0
+    }
+  ]
+}
