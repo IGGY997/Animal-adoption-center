@@ -45,5 +45,22 @@
       "image": "bird1.jpg",
       "likes": 0
     }
+    {
+      "id": 6,
+      "name": "Lion",
+      "species": "Panthera leo",
+      "breed": "African Lion",
+      "age": 8,
+      "image": "lion1.jpg",
+      "likes": 0
+    },
+    {
+      "id": 7,
+      "name": "Tiger",
+      "species": "Panthera tigris",
+      "breed": "Bengal Tiger",
+      "age": 5,
+      "image": "tiger1.jpg",
+      "likes": 0
   ]
 }
