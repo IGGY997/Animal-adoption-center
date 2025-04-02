@@ -44,7 +44,7 @@
       "age": 2,
       "image": "bird1.jpg",
       "likes": 0
-    }
+    },
     {
       "id": 6,
       "name": "Lion",
@@ -62,5 +62,6 @@
       "age": 5,
       "image": "tiger1.jpg",
       "likes": 0
+    }
   ]
 }
